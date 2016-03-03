@@ -1,0 +1,12 @@
+body {
+	padding-left: 5%; 
+	padding-top: 2%; 
+	width: 25%;
+}
+
+hr {
+	height: 1px;
+	border: none;
+	max-width: 95%;
+	border-top: 2px solid #c0c0c0;
+}
